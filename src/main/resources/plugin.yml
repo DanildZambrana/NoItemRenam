@@ -1,0 +1,7 @@
+name: NoItemRename
+version: ${project.version}
+main: io.github.danildzambrana.noitemrename.NoItemRename
+prefix: NIR
+authors: [DanildZambrana]
+description: Evita el renombre de los id de los items pasados en la config
+website: https://github.com/DanildZambrana/NoItemRenam
